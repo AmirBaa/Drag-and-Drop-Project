@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 
 
-describe('End to end testing of Drag and Drop project', () => {
+describe('Drag and Drop', () => {
 
     beforeEach(() => {
         cy.visit('http://127.0.0.1:5500/')
